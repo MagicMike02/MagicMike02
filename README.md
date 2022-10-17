@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagicMike02
 - 👀 I’m interested in Computer Science, Games and understanding things
-- 🌱 I’m currently learning Java, C, Algorithm, Data Structure and starting withW Web Development
+- 🌱 I’m currently learning Java, C, Algorithm, Data Structure and starting with Web Development
 
 
 
